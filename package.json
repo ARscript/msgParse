@@ -1,0 +1,11 @@
+{
+  "name": "msgParse",
+  "version": "0.1.0",
+  "description": "Message parsing commonjs lib",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danny Grove <danny@drgrovellc.com>",
+  "license": "AGPL"
+}

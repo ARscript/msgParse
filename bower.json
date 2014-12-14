@@ -1,0 +1,21 @@
+{
+  "name": "msgParse",
+  "version": "0.1.0",
+  "homepage": "https://github.com/ARscript/msgParse",
+  "authors": [
+    "Danny Grove <danny@drgrovellc.com>"
+  ],
+  "description": "ARscript message parser",
+  "main": "src/",
+  "license": "AGPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.7.0"
+  }
+}
